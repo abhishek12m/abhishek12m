@@ -32,18 +32,18 @@
 
 Here are some of my notable projects:
 
-- [Project 1](https://github.com/abhishek12m/project-1) - Brief description of Project 1
-- [Project 2](https://github.com/abhishek12m/project-2) - Brief description of Project 2
-- [Project 3](https://github.com/abhishek12m/project-3) - Brief description of Project 3
+- [Car Wash App](https://github.com/abhishek12m/on-demand-car-wash-deployed) - Green Wash provides a convenient solution for getting your car washed at your preferred location.
+- [Task Stacker](https://github.com/abhishek12m/task-stacker-deployed) - Task Manager is a comprehensive application designed to facilitate task management for both users and managers.
+- [Cinemate](https://github.com/abhishek12m/cinemate) - Movie information web-application built with React, Tailwind CSS, TMDB API.
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-facebook)
-[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=snapchat&logoColor=black)](https://snapchat.com/add/your-snapchat)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/your-youtube)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekk12m)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abhishekk12m)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abhishekk12m)
+[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=snapchat&logoColor=black)](https://snapchat.com/add/abhishekk12m)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/abhishekk12m)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekmaheshwari1209@gmail.com)
 
 ## 💬 Let's Chat
 
