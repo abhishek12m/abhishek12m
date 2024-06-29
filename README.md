@@ -5,9 +5,12 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working at **Capgemini** as a **Programmer Analyst**.
-- 🌱 I’m currently focusing on **Java Full Stack Development** and **Serverless Architecture**.
-- ⚡ I'm skilled in **Spring Framework, Spring Boot, Spring Security**, and **microservices architecture**.
 - 💡 I'm exploring **AWS Lambda** and **Node.js** for backend development.
+- ⚡ I'm skilled in **Spring Framework, Spring Boot, Spring Security**, and **microservices architecture**.
+## 💼 Professional Experience
+
+- **Current Position:** Nodejs and AWS Developer
+- **Previous Position:** Java Full Stack Developer
 
 ## 🛠️ Technologies & Tools
 
