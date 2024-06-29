@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Abhishek Maheshwari]!
+# 👋 Hi, I'm Abhishek Maheshwari!
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhishek12m&color=green)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=abhishek12m&color=green) -->
 
 ## 🚀 About Me
 
