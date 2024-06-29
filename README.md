@@ -47,14 +47,14 @@
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-F28D1A?style=for-the-badge&logo=lucidchart&logoColor=white)
 ![SwaggerHub](https://img.shields.io/badge/SwaggerHub-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek12m&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek12m&layout=compact&theme=radical)
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhishek12m&theme=radical)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhishek12m&theme=radical) -->
 
 ## 📂 Projects
 
