@@ -14,13 +14,28 @@
 
 ## 🛠️ Technologies & Tools
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![Spring Framework](https://img.shields.io/badge/-Spring_Framework-333333?style=flat&logo=spring)
+  ![Spring MVC](https://img.shields.io/badge/-Spring_MVC-333333?style=flat&logo=spring)
+  ![Spring Cloud Gateway](https://img.shields.io/badge/-Spring_Cloud_Gateway-333333?style=flat&logo=spring)
+  ![Spring Security](https://img.shields.io/badge/-Spring_Security-333333?style=flat&logo=spring)
+  ![Spring REST](https://img.shields.io/badge/-Spring_REST-333333?style=flat&logo=spring)
+  ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=spring)
+  ![React JS](https://img.shields.io/badge/-React_JS-333333?style=flat&logo=react) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-333333?style=flat&logo=amazon-aws)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css) 
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Spring Tool Suite](https://img.shields.io/badge/-Spring_Tool_Suite-333333?style=flat&logo=Spring)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)  
 
 ## 📈 GitHub Stats
 
